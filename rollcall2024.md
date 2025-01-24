@@ -3,3 +3,4 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 ## **Name and GitHub username/profile**
 
 * Richard Torres Molina - [torresmr](https://github.com/torresmr)
+* Erica Mock - [ericanmock](https://github.com/ericanmock)
