@@ -2,4 +2,5 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 
 ## **Name and GitHub username/profile**
 
+* Gabrielle Edwards - [gabredw](https://github.com/gabredw)
 * Richard Torres Molina - [torresmr](https://github.com/torresmr)
