@@ -17,3 +17,4 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 * Yizhou - [Yizhou12-art](https://github.com/Yizhou12-art)
 * Ruru Rajbhandari -[rururajb](https://github.com/rururajb)
 * Anthony Kabongo - [tonytony28]
+* Ruru Rajbhandari -  [rururajb](https://github.com/rururajb)
