@@ -18,3 +18,4 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 * Ruru Rajbhandari -[rururajb](https://github.com/rururajb)
 * Anthony Kabongo - [tonytony28]
 * Ruru Rajbhandari -  [rururajb](https://github.com/rururajb)
+* Erica Mock - [ericanmock](https://github.com/ericanmock) 
