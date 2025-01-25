@@ -11,4 +11,4 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 * Anthony Maniko - [manikoa](https://github.com/manikoa)
 * Hayden Garner - [garnerh](https://github.com/garnerh25)
 * Dia Dana - [DiaHere](https://github.com/DiaHere)
-
+* Gabrielle Edwards - [gabredw](https://github.com/gabredw)
