@@ -13,3 +13,4 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 * Dia Dana - [DiaHere](https://github.com/DiaHere)
 * Gabrielle Edwards - [gabredw](https://github.com/gabredw)
 * Lucas McAllister - [mcallisl](https://github.com/mcallisl)
+* Aidan Rausch - [aidan4231](https://github.com/aidan4231)
