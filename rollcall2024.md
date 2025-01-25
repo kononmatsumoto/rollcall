@@ -14,3 +14,4 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 * Gabrielle Edwards - [gabredw](https://github.com/gabredw)
 * Lucas McAllister - [mcallisl](https://github.com/mcallisl)
 * Aidan Rausch - [aidan4231](https://github.com/aidan4231)
+* Vinny Fertrin - [viratrin](https://github.com/viratrin)
