@@ -1,7 +1,6 @@
 Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github)
 
 ## **Name and GitHub username/profile**
-
 * Richard Torres Molina - [torresmr](https://github.com/torresmr)
 * Katherine Nagel - [airimder](https://github.com/airimder)
 * Paxton David Luther - [lutherpwhit](https://github.com/lutherpWhit)
@@ -17,3 +16,4 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 * Vinny Fertrin - [viratrin](https://github.com/viratrin)
 * Yizhou - [Yizhou12-art](https://github.com/Yizhou12-art)
 * Ruru Rajbhandari -[rururajb](https://github.com/rururajb)
+* Anthony Kabongo - [tonytony28]
