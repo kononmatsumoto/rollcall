@@ -14,8 +14,9 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 * Lucas McAllister - [mcallisl](https://github.com/mcallisl)
 * Aidan Rausch - [aidan4231](https://github.com/aidan4231)
 * Vinny Fertrin - [viratrin](https://github.com/viratrin)
-* Yizhou - [Yizhou12-art](https://github.com/Yizhou12-art)
+* Yizhou Xu - [Yizhou12-art](https://github.com/Yizhou12-art)
 * Ruru Rajbhandari -[rururajb](https://github.com/rururajb)
-* Anthony Kabongo - [tonytony28]
+* Anthony Kabongo - [tonytony28](https://github.com/tonytony28)
 * Ruru Rajbhandari -  [rururajb](https://github.com/rururajb)
 * Erica Mock - [ericanmock](https://github.com/ericanmock) 
+
